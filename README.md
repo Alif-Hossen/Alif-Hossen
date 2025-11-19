@@ -155,6 +155,25 @@
   </tr>
 </table>
 
+<!-- <h3 align="left">📊 GITHUB STATISTICS & ANALYSIS</h3>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME_HERE&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=2037FF&icon_color=2037FF" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=2037FF&icon_color=2037FF" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table> -->
+
+<!-- <h3 align="center">🔥 COMMIT STREAK</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME_HERE&theme=radical&hide_border=true&date_format=M%20j%2C%20Y&fire=2037FF" alt="GitHub Streak" />
+</p> -->
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Alif-Hossen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Alif-Hossen" /></a></p><br><br> <br>
 
@@ -162,5 +181,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alif-hossen&show_icons=true&locale=en" alt="alif-hossen" /></p> <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alif-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="alif-hossen" /> </p> <br>
 
