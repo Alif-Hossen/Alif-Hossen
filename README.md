@@ -14,7 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@naimur__alif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@naimur__alif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@naimuralif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@naimuralif" height="30" width="40" /></a>
 <a href="https://fb.com/naimuralif1.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naimuralif1.0" height="30" width="40" /></a>
+<a href="https://instagram.com/@naimur.alif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@naimur.alif" height="30" width="40" /></a>
+<a href="https://discord.gg/@alifhossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@alifhossen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -139,11 +143,11 @@
 </table>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Alif-Hossen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Alif-Hossen" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Alif-Hossen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Alif-Hossen" /></a></p><br><br> <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alif-hossen&show_icons=true&locale=en&layout=compact" alt="alif-hossen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alif-hossen&show_icons=true&locale=en&layout=compact" alt="alif-hossen" /></p> <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alif-hossen&show_icons=true&locale=en" alt="alif-hossen" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alif-hossen&show_icons=true&locale=en" alt="alif-hossen" /></p> <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alif-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="alif-hossen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alif-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="alif-hossen" /> </p> <br>
 
