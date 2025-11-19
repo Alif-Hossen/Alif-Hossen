@@ -8,9 +8,22 @@
 <h1 align="center">Hi 👋, I'm Alif</h1>
 <h3 align="center">A passionate Software Engineer and frontend developer</h3>
 
+<h4 align="center">Web Developer | MERN Stack Enthusiast | Bangladesh</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2037FF&center=true&vCenter=true&width=430&lines=JavaScript+Enthusiast;Passionate+Full+Stack;Interested+in+Machine+Learning" alt="Typing SVG" />
+</p> <br>
+
 <img align="right" alt="Codding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+<h3 align="left">🚀 About Me</h3>
 
+<ul style="list-style-type: none; padding-left: 0;">
+    <li><p>✨ I am a <b>3rd Year Software Engineering Student</b> highly passionate about both software development and hardware integration.</p></li>
+    <li><p>💡 Currently focused on my <b>Capstone Project</b>: developing a <b><a href="YOUR_PROJECT_LINK_HERE">Fire Fighting Robot</a></b>, reflecting my keen interest in Robotics and Embedded Systems.</p></li>
+    <li><p>💻 My primary technical focus is on <b>Frontend Development</b> (React, Next.js) and the broader <b>Full-Stack (MERN)</b> ecosystem.</p></li>
+    <li><p>🧠 I consistently sharpen my logical acumen through **Data Structures & Algorithms (DSA)** and competitive problem-solving.</p></li>
+    <li><p>🤝 Eager to collaborate on innovative projects and explore new technologies. Let's connect!</p></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
